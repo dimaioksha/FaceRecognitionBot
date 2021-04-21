@@ -1,0 +1,10 @@
+venv/
+*.xml
+.idea/
+*.pyc
+__pycache__/
+Aptfile
+Procfile
+data/
+*.prototxt
+*.caffemodel

@@ -1,0 +1,6 @@
+../detectionbot/model/deploy.prototxt
+../detectionbot/model/res10_300x300_ssd_iter_140000.caffemodel
+../detectionbot/model/age_gender_models/deploy_age.prototxt
+../detectionbot/model/age_gender_models/age_net.caffemodel
+../detectionbot/model/age_gender_models/deploy_gender.prototxt
+../detectionbot/model/age_gender_models/gender_net.caffemodel
