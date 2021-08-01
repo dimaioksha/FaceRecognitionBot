@@ -1,4 +1,4 @@
-# Дмитрий Иокша финальный проект школа аналитиков данных Х5
+# Telegram bot for face recognition online
 
 To use bot type in telegram `@wattf_bot`
 
